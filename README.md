@@ -1,3 +1,5 @@
+# WARNING: This does not do what it says on the tin yet. It is currently WIP migrating this to a new RethinkDB adapter that supports 2.0
+
 # Rethinkdb adapter for Ecto
 
 This is a simple adapter to use [Rethinkdb](http://rethinkdb.com) in [Ecto](https://github.com/elixir-lang/ecto).
